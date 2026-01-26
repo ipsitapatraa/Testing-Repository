@@ -1,0 +1,33 @@
+# Maven build output
+target/
+
+# Compiled Java files
+*.class
+
+# TestNG reports
+test-output/
+
+# Selenium reports
+reports/
+allure-results/
+allure-report/
+
+# Screenshots & recordings
+screenshots/
+videos/
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / config
+.env
+config.properties
