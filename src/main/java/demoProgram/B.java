@@ -14,6 +14,7 @@ public class B {
 	public void m1() {
 		System.out.println("method output");
 		System.out.println("added in feature branch");
+		String s1="java";
 	}
 
 }
