@@ -18,6 +18,7 @@ public class B {
 		System.out.println("added in feature branch");
 		String s= "testing";		
 		System.out.println(s);
+		String s1="java";
 	}
 
 }
