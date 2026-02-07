@@ -14,6 +14,9 @@ public class A {
 		case "firefox":
 			System.out.println("Launch firefox browser");
 			break;
+		case "firefox1111":
+			System.out.println("Launch firefox browser");
+			break;
 
 		default:
 			System.out.println("launch IE browser");
