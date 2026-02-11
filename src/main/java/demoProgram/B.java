@@ -16,9 +16,12 @@ public class B {
 	public static void m1() {
 		System.out.println("method output");
 		System.out.println("added in feature branch");
+
+		String s1="java";
+
 		String s= "testing";		
 		System.out.println(s);
-		String s1="java";
+
 	}
 
 }
